@@ -1,5 +1,5 @@
 # docker_server
-Этот репозиторий служит для быстро разворачивания проекта через docker compose
+Этот репозиторий служит для быстро разворачивания [Mashin learning server](https://github.com/Gurman520/diplom_server) через docker compose
 
 # Основной репозиторий
 Ссылка на основной проект [Mashin learning server](https://github.com/Gurman520/diplom_server)
